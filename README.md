@@ -1,5 +1,7 @@
 # React Fitness Application
 
-![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
+Real React Fitness
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+## 
+
+get a project and stuck to it 
